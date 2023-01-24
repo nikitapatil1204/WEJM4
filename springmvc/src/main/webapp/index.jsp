@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Archetype created web application</h2>
+<h2>this is spring mvc project</h2>
 </body>
 </html>
